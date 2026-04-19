@@ -53,6 +53,19 @@
 - [Instance Shadow Detection (2020)](https://github.com/stevewongv/InstanceShadowDetection)
 - [SSIS (2021)](https://github.com/stevewongv/SSIS)
 
+
+- [1] Cheng, H. K., Oh, S. W., Price, B., Lee, J. Y., & Schwing, A. (2024). Putting the Object Back into Video Object Segmentation.
+  (https://github.com/hkchengrex/Cutie)
+
+- [2] Oh, S. W., Lee, J. Y., Xu, N., & Kim, S. J. (2019). Video Object Segmentation using Space-Time Memory Networks.
+  (https://github.com/seoungwugoh/STM)
+
+- [3] Wang, T., Hu, X., Wang, Q., Heng, P.-A., & Fu, C.-W. (2020). Instance Shadow Detection.
+  (https://github.com/stevewongv/InstanceShadowDetection)
+
+- [4] Wang, T., Hu, X., Heng, P.-A., & Fu, C.-W. (2021). SSIS (CVPR 2021 Oral) & SSISv2 (TPAMI 2022).
+  (https://github.com/stevewongv/SSIS)
+
 ---
 
 ## Contributors
