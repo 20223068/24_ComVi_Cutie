@@ -48,12 +48,6 @@
 
 ## 참고 문헌
 
-- [Cutie (2024)](https://github.com/hkchengrex/Cutie)
-- [STM (2019)](https://github.com/seoungwugoh/STM)
-- [Instance Shadow Detection (2020)](https://github.com/stevewongv/InstanceShadowDetection)
-- [SSIS (2021)](https://github.com/stevewongv/SSIS)
-
-
 - [1] [Cutie (2024)] Cheng, H. K., Oh, S. W., Price, B., Lee, J. Y., & Schwing, A. (2024). Putting the Object Back into Video Object Segmentation.
   (https://github.com/hkchengrex/Cutie)
 
