@@ -26,7 +26,7 @@
 
 ### 2. SSIS 통합
 
-- **SSIS**: single-stage instance shadow detection network
+- **SSIS**: single-stage instance shadow detection
 - **기능**:  
   - 조명 분석 기반 그림자 추정 및 경계 감지  
   - 사용자가 그림자 포함 여부 선택 가능  
